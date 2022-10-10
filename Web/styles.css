@@ -1,5 +1,44 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+  }
+  
+  body {
+    font-family: "Poppins", sans-serif;
+  }
+  .navbar {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: bisque;
+  }
+  
+  nav {
+    flex: 1;
+    text-align: right;
+    
+  }
+  
+  nav ul {
+    display: inline-block;
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #555;
+  }
+  
+  a:hover {
+    color: blue;
+  }
+  
+  p {
+    color: #555;
+  }

@@ -42,3 +42,28 @@
   p {
     color: #555;
   }
+
+button{
+    width: 200px;
+    padding: 15px 0;
+    border-radius: 25px;
+    margin: 25px 5px;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid #009688;
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+}
+
+span{
+    background-color: #009688;
+    height: 100%;
+   width: 0%; 
+    border-radius: 25px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 0.8s;
+}

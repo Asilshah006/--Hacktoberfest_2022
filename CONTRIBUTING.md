@@ -1,5 +1,5 @@
 # Hacktoberfest_22
-
+Deep Learning of all 
 This repository is dedicated to serve developers who are new to open-source contributions and want to contribute some value in Hacktoberfest 2022.
 
 To open a PR (pull request) for this repo:

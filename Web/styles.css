@@ -27,7 +27,7 @@
   
   nav ul li {
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 30px;
   }
   
   a {
@@ -36,7 +36,7 @@
   }
   
   a:hover {
-    color: blue;
+    color: red;
   }
   
   p {

@@ -8,9 +8,9 @@ class Main {
 	static void Main()
 	{
 		
-		char a = 'G';
+		char a = 'A';
 
-		int i = 89;
+		int i = 90;
 
 		short s = 56;
 		

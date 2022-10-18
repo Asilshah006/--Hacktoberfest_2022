@@ -1,4 +1,5 @@
 # Hacktoberfest_22
+Deep Learninig
 
 This repository is dedicated to serve developers who are new to open-source contributions and want to contribute some value in Hacktoberfest 2022.
 
@@ -24,9 +25,6 @@ Step 9. git push origin master/main/your-banch
 
 Step 10. (switch to Github)
 
-Step 11. Go to Pull requests tab > new Pull request > create pull request
-
-Step 12. You're done !
 
 Note: Have patience till your PR gets reviewed and accepted/merged.
 

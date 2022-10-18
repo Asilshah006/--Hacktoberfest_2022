@@ -6,6 +6,10 @@ public class AvgCalculator {
            System.out.println("You are expert in these fields");
         else{
             System.out.println("Please try hard to atleast pass these subjects");
+            
+            
+            
+            // this is commit for Calculator in java
     }
 }
 class AvergeCalculator{

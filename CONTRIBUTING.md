@@ -1,5 +1,5 @@
 # Hacktoberfest_22
-
+Deep learning
 This repository is dedicated to serve developers who are new to open-source contributions and want to contribute some value in Hacktoberfest 2022.
 
 To open a PR (pull request) for this repo:
@@ -12,11 +12,6 @@ Step 3. Right click > Git bash here.
 
 Step 4. git clone "repolink.git" (your forked repo link)
 
-Step 5. Now head over to your file > make required changes > save the file.
-
-Step 6. (return to the git bash terminal)
-
-Step 7. git add .
 
 Step 8. git commit "any message"
 

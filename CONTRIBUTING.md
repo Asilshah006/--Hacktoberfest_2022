@@ -1,33 +1,51 @@
-# Hacktoberfest_22
+# How to start contributing?
 
-This repository is dedicated to serve developers who are new to open-source contributions and want to contribute some value in Hacktoberfest 2022.
+### 1. Register for [Hactoberfest](https://hacktoberfest.com/) as a contributor
 
-To open a PR (pull request) for this repo:
+### 2. Fork this repo and make the project available locally. Run the following command for that
 
-Step 1. Fork the repo
+#### `git clone https://<username>/--Hacktoberfest_2022`
 
-Step 2. Make a separate folder on your local computer
+### 3. Create a branch for the changes
 
-Step 3. Right click > Git bash here.
+#### `git checkout master`
 
-Step 4. git clone "repolink.git" (your forked repo link)
+#### `git branch -M <branch_name>`
 
-Step 5. Now head over to your file > make required changes > save the file.
+### 4. Now head over to your file > make required changes > save the file.
 
-Step 6. (return to the git bash terminal)
+### 6. Commit the changes
 
-Step 7. git add .
+#### `git add .`
 
-Step 8. git commit "any message"
+#### `git commit -m 'added <the topic>'`
 
-Step 9. git push origin master/main/your-banch
+#### `git push -u origin <branch_name>`
 
-Step 10. (switch to Github)
+### 7. Open a [Pull request](https://medium.com/@pragyasapkota/how-to-create-a-pull-request-in-github-a-small-guide-to-beginners-in-hacktober-2022-f4f5ff214542) in your github
 
-Step 11. Go to Pull requests tab > new Pull request > create pull request
+### 8. Give this project a star
 
-Step 12. You're done !
+If you liked working on this project, please share this project as much as you can and star this project to help as many people in opensource as you can.
 
-Note: Have patience till your PR gets reviewed and accepted/merged.
+## Note:
 
-# OR YOU CAN USE GITHUB DESKTOP APP TO CLONE THE REPO AND MAKE CHANGES IN IT.
+1. Don't Create Pull Request to update "Readme.md" or the "CONTRIBUTING.md" File.
+
+2. If you want to add corrections or have a genuine update on the existing files, try it and if it is valid - will be accepted. But you need to specify the changes in comments.
+
+3. Make a file for your content and make your content limited to the file only.
+
+4. Spammy Pull Requests will be marked spam and then closed.
+
+5. The duplicate or copied content is strictly prohibited.
+
+6. The topic should be of Java.
+
+7. Donot remove previous contents.
+
+# Code of Conduct
+
+`CTRL+click` the GIF below
+
+<p><a href="https://github.com/mubashir72/Hacktoberfest_2022/blob/main/CODEOFCONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
